@@ -24,7 +24,7 @@
         android:layout_margin="8dp"
         android:text="@string/parabens"
         android:textAlignment="center"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/holo_blue_dark"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/resumo_compra_banner_inicial"
